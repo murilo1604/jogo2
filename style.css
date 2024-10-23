@@ -1,5 +1,9 @@
 body {
 
     color: white;
-    background: black;
+    background: rgb(0, 0, 0);
+}
+
+header {
+border: solid 2px rgb(163, 0, 0)
 }

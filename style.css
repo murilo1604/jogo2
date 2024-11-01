@@ -15,6 +15,13 @@ color: whitesmoke;
 section {
     backround: rgb(163, 0, 0);
     padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 20px;
 
 
 }

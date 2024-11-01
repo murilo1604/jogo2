@@ -13,7 +13,8 @@ color: whitesmoke;
 }
 
 section {
-backround: rgb(163, 0, 0);
+    backround: rgb(163, 0, 0);
+    padding-bottom: 80px;
 
 
 }
